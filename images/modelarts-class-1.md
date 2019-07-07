@@ -8,7 +8,7 @@ ModelArts训练营
 
 雏菊：
 
-![image](https://github.com/sunyoe/python-works/blob/master/SharedScreenshot.jpg)
+![image](https://github.com/sunyoe/python-works/blob/master/images/4804434999_bf2187e96a_n.jpg)
 
 蒲公英：
 
