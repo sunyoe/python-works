@@ -22,3 +22,7 @@ ModelArts训练营
 
 ![image](https://github.com/sunyoe/python-works/blob/master/images/xiangrikui.png)
 
+notebook案例完成截图
+
+![image](https://github.com/sunyoe/python-works/blob/master/images/notebook.png)
+
